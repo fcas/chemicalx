@@ -8,7 +8,7 @@ install_requires = [
     "torch>=1.10.0",
     "torchdrug==0.1.2",
     "torch-scatter>=2.0.8",
-    "pandas<=1.3.5",
+    "pandas<=2.0.3",
     "tqdm",
     "scikit-learn",
     "class-resolver>=0.2.1",
