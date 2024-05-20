@@ -1,7 +1,7 @@
 tqdm
 numpy
 sphinx==4.0.2
-sphinx_rtd_theme==0.5.2
+sphinx_rtd_theme==2.0.0
 sphinx-autodoc-typehints
 sphinx-automodapi
 https://download.pytorch.org/whl/cpu/torch-1.10.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
