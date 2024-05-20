@@ -6,7 +6,7 @@ install_requires = [
     "numpy",
     "rdkit-pypi<=2021.9.5.1",
     "torch>=1.10.0",
-    "torchdrug==0.1.2",
+    "torchdrug==0.2.1",
     "torch-scatter>=2.0.8",
     "pandas<=1.3.5",
     "tqdm",
